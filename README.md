@@ -53,40 +53,51 @@ Safety takes priority over performance. Every subsystem should fail safely.
 
 
 #Repository Structure
+
+
 SuperDog/
+
 ├── docs/
+
 ├── cad/
+
 ├── electronics/
+
 ├── software/
+
 ├── ai/
+
 ├── media/
+
 ├── testing/
+
 ├── LICENSE
+
 └── README.md
 
 #Development Roadmap
 
-[ ]Define project requirements
+[ ] Define project requirements
 
-[ ]Complete mechanical design
+[ ] Complete mechanical design
 
-[ ]Design electronics architecture
+[ ] Design electronics architecture
 
-[ ]Build chassis
+[ ] Build chassis
 
-[ ]Develop locomotion
+[ ] Develop locomotion
 
-[ ]Implement perception system
+[ ] Implement perception system
 
-[ ]Add navigation
+[ ] Add navigation
 
-[ ]Develop manipulation system
+[ ] Develop manipulation system
 
-[ ]Integrate AI reasoning
+[ ] Integrate AI reasoning
 
-[ ]Extensive testing
+[ ] Extensive testing
 
-[ ]Final demonstration
+[ ] Final demonstration
 
 #🤝 Contributing
 Contributions, suggestions, ideas, bug reports, and discussions are welcome.
