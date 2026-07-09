@@ -103,27 +103,27 @@ SuperDog/
 
 ## Development Roadmap
 
-[ ] Define project requirements
+-[ ] Define project requirements
 
-[ ] Complete mechanical design
+-[ ] Complete mechanical design
 
-[ ] Design electronics architecture
+-[ ] Design electronics architecture
 
-[ ] Build chassis
+-[ ] Build chassis
 
-[ ] Develop locomotion
+-[ ] Develop locomotion
 
-[ ] Implement perception system
+-[ ] Implement perception system
 
-[ ] Add navigation
+-[ ] Add navigation
 
-[ ] Develop manipulation system
+-[ ] Develop manipulation system
 
-[ ] Integrate AI reasoning
+-[ ] Integrate AI reasoning
 
-[ ] Extensive testing
+-[ ] Extensive testing
 
-[ ] Final demonstration
+-[ ] Final demonstration
 
 
 ## Contributing
